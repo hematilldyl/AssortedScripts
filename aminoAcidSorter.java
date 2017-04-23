@@ -43,10 +43,10 @@ public class aminoAcidSorter extends bubblesort{
                        x[j]=x[j+1];    
                        x[j+1]=temp; 
                        flag = true;
-                           } 
-                   } 
-            }
-			return x; 
-      } 
-	}
+               } 
+             } 
+          }
+	return x; 
+    } 
+}
 
